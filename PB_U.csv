@@ -1,0 +1,481 @@
+Gender,Umur,Tinggi(cm),Keterangan
+0,0,43.5,Sangat Pendek
+0,0,45.4,Pendek
+0,0,52.9,Normal
+0,0,53,Tinggi
+0,1,47.7,Sangat Pendek
+0,1,48.8,Pendek
+0,1,67.6,Normal
+0,1,67.7,Tinggi
+0,2,49.9,Sangat Pendek
+0,2,53,Pendek
+0,2,61.1,Normal
+0,2,61.2,Tinggi
+0,3,53.4,Sangat Pendek
+0,3,55.6,Pendek
+0,3,64,Normal
+0,3,64.1,Tinggi
+0,4,55.5,Sangat Pendek
+0,4,57.8,Pendek
+0,4,66.4,Normal
+0,4,66.5,Tinggi
+0,5,57.3,Sangat Pendek
+0,5,59.6,Pendek
+0,5,68.5,Normal
+0,5,68.6,Tinggi
+0,6,58.8,Sangat Pendek
+0,6,61.2,Pendek
+0,6,70.3,Normal
+0,6,70.4,Tinggi
+0,7,60.2,Sangat Pendek
+0,7,62.7,Pendek
+0,7,71.9,Normal
+0,7,72,Tinggi
+0,8,61.6,Sangat Pendek
+0,8,64,Pendek
+0,8,73.5,Normal
+0,8,73.6,Tinggi
+0,9,62.8,Sangat Pendek
+0,9,65.3,Pendek
+0,9,75,Normal
+0,9,75.1,Tinggi
+0,10,64,Sangat Pendek
+0,10,66.5,Pendek
+0,10,76.4,Normal
+0,10,76.5,Tinggi
+0,11,65.1,Sangat Pendek
+0,11,67.7,Pendek
+0,11,77.8,Normal
+0,11,77.9,Tinggi
+0,12,66.2,Sangat Pendek
+0,12,68.9,Pendek
+0,12,79.2,Normal
+0,12,79.3,Tinggi
+0,13,67.2,Sangat Pendek
+0,13,70,Pendek
+0,13,80.5,Normal
+0,13,80.6,Tinggi
+0,14,68.2,Sangat Pendek
+0,14,71,Pendek
+0,14,81.7,Normal
+0,14,81.8,Tinggi
+0,15,69.2,Sangat Pendek
+0,15,72,Pendek
+0,15,83,Normal
+0,15,83.1,Tinggi
+0,16,70.1,Sangat Pendek
+0,16,73,Pendek
+0,16,84.2,Normal
+0,16,84.3,Tinggi
+0,17,71,Sangat Pendek
+0,17,74,Pendek
+0,17,85.4,Normal
+0,17,85.5,Tinggi
+0,18,71.9,Sangat Pendek
+0,18,74.9,Pendek
+0,18,86.5,Normal
+0,18,86.6,Tinggi
+0,19,72.7,Sangat Pendek
+0,19,75.8,Pendek
+0,19,87.6,Normal
+0,19,87.7,Tinggi
+0,20,73.6,Sangat Pendek
+0,20,76.7,Pendek
+0,20,88.7,Normal
+0,20,88.8,Tinggi
+0,21,74.7,Sangat Pendek
+0,21,77.5,Pendek
+0,21,89.8,Normal
+0,21,89.9,Tinggi
+0,22,75.1,Sangat Pendek
+0,22,78.4,Pendek
+0,22,90.8,Normal
+0,22,90.9,Tinggi
+0,23,75.9,Sangat Pendek
+0,23,79.2,Pendek
+0,23,91.9,Normal
+0,23,92,Tinggi
+0,24,76.6,Sangat Pendek
+0,24,80,Pendek
+0,24,92.9,Normal
+0,24,93,Tinggi
+0,25,76.7,Sangat Pendek
+0,25,80,Pendek
+0,25,93.1,Normal
+0,25,93.2,Tinggi
+0,26,77.4,Sangat Pendek
+0,26,80.8,Pendek
+0,26,94.1,Normal
+0,26,94.2,Tinggi
+0,27,78,Sangat Pendek
+0,27,81.5,Pendek
+0,27,95,Normal
+0,27,95.1,Tinggi
+0,28,78.7,Sangat Pendek
+0,28,82.2,Pendek
+0,28,96,Normal
+0,28,96.1,Tinggi
+0,29,79.4,Sangat Pendek
+0,29,82.9,Pendek
+0,29,96.9,Normal
+0,29,97,Tinggi
+0,30,80,Sangat Pendek
+0,30,83.6,Pendek
+0,30,97.7,Normal
+0,30,97.8,Tinggi
+0,31,80.6,Sangat Pendek
+0,31,84.3,Pendek
+0,31,98.6,Normal
+0,31,98.7,Tinggi
+0,32,81.2,Sangat Pendek
+0,32,84.9,Pendek
+0,32,99.4,Normal
+0,32,99.5,Tinggi
+0,33,81.8,Sangat Pendek
+0,33,85.6,Pendek
+0,33,100.3,Normal
+0,33,100.4,Tinggi
+0,34,82.4,Sangat Pendek
+0,34,86.2,Pendek
+0,34,101.1,Normal
+0,34,101.2,Tinggi
+0,35,83,Sangat Pendek
+0,35,86.8,Pendek
+0,35,101.9,Normal
+0,35,102,Tinggi
+0,36,83.5,Sangat Pendek
+0,36,87.4,Pendek
+0,36,102.7,Normal
+0,36,102.8,Tinggi
+0,37,84.1,Sangat Pendek
+0,37,88,Pendek
+0,37,103.4,Normal
+0,37,103.5,Tinggi
+0,38,84.6,Sangat Pendek
+0,38,88.6,Pendek
+0,38,104.2,Normal
+0,38,104.3,Tinggi
+0,39,85.2,Sangat Pendek
+0,39,89.2,Pendek
+0,39,105,Normal
+0,39,105.1,Tinggi
+0,40,85.7,Sangat Pendek
+0,40,89.8,Pendek
+0,40,105.7,Normal
+0,40,105.8,Tinggi
+0,41,86.2,Sangat Pendek
+0,41,90.4,Pendek
+0,41,106.4,Normal
+0,41,106.5,Tinggi
+0,42,86.7,Sangat Pendek
+0,42,90.9,Pendek
+0,42,107.2,Normal
+0,42,107.3,Tinggi
+0,43,87.3,Sangat Pendek
+0,43,91.5,Pendek
+0,43,107.9,Normal
+0,43,108,Tinggi
+0,44,87.8,Sangat Pendek
+0,44,92,Pendek
+0,44,108.6,Normal
+0,44,108.7,Tinggi
+0,45,88.3,Sangat Pendek
+0,45,92.5,Pendek
+0,45,109.3,Normal
+0,45,109.4,Tinggi
+0,46,88.8,Sangat Pendek
+0,46,93.1,Pendek
+0,46,110,Normal
+0,46,110.1,Tinggi
+0,47,89.2,Sangat Pendek
+0,47,93.6,Pendek
+0,47,110.7,Normal
+0,47,110.8,Tinggi
+0,48,89.7,Sangat Pendek
+0,48,94.1,Pendek
+0,48,111.3,Normal
+0,48,111.4,Tinggi
+0,49,90.2,Sangat Pendek
+0,49,94.6,Pendek
+0,49,112,Normal
+0,49,112.1,Tinggi
+0,50,90.6,Sangat Pendek
+0,50,95.1,Pendek
+0,50,112.7,Normal
+0,50,112.8,Tinggi
+0,51,91.1,Sangat Pendek
+0,51,95.6,Pendek
+0,51,113.3,Normal
+0,51,113.4,Tinggi
+0,52,91.6,Sangat Pendek
+0,52,96.1,Pendek
+0,52,114,Normal
+0,52,114.1,Tinggi
+0,53,92,Sangat Pendek
+0,53,96.6,Pendek
+0,53,114.6,Normal
+0,53,114.7,Tinggi
+0,54,92.5,Sangat Pendek
+0,54,97.1,Pendek
+0,54,115.2,Normal
+0,54,115.3,Tinggi
+0,55,92.9,Sangat Pendek
+0,55,97.6,Pendek
+0,55,115.9,Normal
+0,55,116,Tinggi
+0,56,93.3,Sangat Pendek
+0,56,98.1,Pendek
+0,56,116.5,Normal
+0,56,116.6,Tinggi
+0,57,93.8,Sangat Pendek
+0,57,98.5,Pendek
+0,57,117.1,Normal
+0,57,117.2,Tinggi
+0,58,94.2,Sangat Pendek
+0,58,99,Pendek
+0,58,117.7,Normal
+0,58,117.8,Tinggi
+0,59,94.6,Sangat Pendek
+0,59,99.5,Pendek
+0,59,118.3,Normal
+0,59,118.4,Tinggi
+1,0,44.1,Sangat Pendek
+1,0,46.1,Pendek
+1,0,53.7,Normal
+1,0,53.8,Tinggi
+1,1,48.8,Sangat Pendek
+1,1,50.8,Pendek
+1,1,58.6,Normal
+1,1,58.7,Tinggi
+1,2,52.3,Sangat Pendek
+1,2,54.4,Pendek
+1,2,62.4,Normal
+1,2,62.5,Tinggi
+1,3,55.2,Sangat Pendek
+1,3,57.3,Pendek
+1,3,65.5,Normal
+1,3,65.6,Tinggi
+1,4,57.5,Sangat Pendek
+1,4,59.7,Pendek
+1,4,68,Normal
+1,4,68.1,Tinggi
+1,5,59.5,Sangat Pendek
+1,5,61.7,Pendek
+1,5,70.1,Normal
+1,5,70.2,Tinggi
+1,6,61.1,Sangat Pendek
+1,6,63.3,Pendek
+1,6,71.9,Normal
+1,6,72,Tinggi
+1,7,62.6,Sangat Pendek
+1,7,64.8,Pendek
+1,7,73.5,Normal
+1,7,73.6,Tinggi
+1,8,63.9,Sangat Pendek
+1,8,66.2,Pendek
+1,8,75,Normal
+1,8,75.1,Tinggi
+1,9,65.1,Sangat Pendek
+1,9,67.5,Pendek
+1,9,76.5,Normal
+1,9,76.6,Tinggi
+1,10,66.3,Sangat Pendek
+1,10,68.7,Pendek
+1,10,77.9,Normal
+1,10,78,Tinggi
+1,11,67.5,Sangat Pendek
+1,11,69.9,Pendek
+1,11,79.2,Normal
+1,11,79.3,Tinggi
+1,12,68.5,Sangat Pendek
+1,12,71,Pendek
+1,12,80.5,Normal
+1,12,80.6,Tinggi
+1,13,69.5,Sangat Pendek
+1,13,72.1,Pendek
+1,13,81.8,Normal
+1,13,81.9,Tinggi
+1,14,70.5,Sangat Pendek
+1,14,73.1,Pendek
+1,14,83,Normal
+1,14,83.1,Tinggi
+1,15,71.5,Sangat Pendek
+1,15,74.1,Pendek
+1,15,84.2,Normal
+1,15,84.3,Tinggi
+1,16,72.4,Sangat Pendek
+1,16,75,Pendek
+1,16,85.4,Normal
+1,16,85.5,Tinggi
+1,17,73.2,Sangat Pendek
+1,17,76,Pendek
+1,17,86.5,Normal
+1,17,86.6,Tinggi
+1,18,74.1,Sangat Pendek
+1,18,76.9,Pendek
+1,18,87.7,Normal
+1,18,87.8,Tinggi
+1,19,74.9,Sangat Pendek
+1,19,77.9,Pendek
+1,19,88.8,Normal
+1,19,88.9,Tinggi
+1,20,75.7,Sangat Pendek
+1,20,78.6,Pendek
+1,20,89.8,Normal
+1,20,89.9,Tinggi
+1,21,76.4,Sangat Pendek
+1,21,79.4,Pendek
+1,21,90.9,Normal
+1,21,91,Tinggi
+1,22,77.1,Sangat Pendek
+1,22,80.2,Pendek
+1,22,91.9,Normal
+1,22,92,Tinggi
+1,23,77.9,Sangat Pendek
+1,23,81,Pendek
+1,23,92.9,Normal
+1,23,93,Tinggi
+1,24,78.6,Sangat Pendek
+1,24,81.7,Pendek
+1,24,93.9,Normal
+1,24,94,Tinggi
+1,25,78.6,Sangat Pendek
+1,25,81.7,Pendek
+1,25,94.2,Normal
+1,25,94.3,Tinggi
+1,26,79.2,Sangat Pendek
+1,26,82.5,Pendek
+1,26,95.2,Normal
+1,26,95.3,Tinggi
+1,27,79.8,Sangat Pendek
+1,27,83.1,Pendek
+1,27,96.1,Normal
+1,27,96.2,Tinggi
+1,28,80.4,Sangat Pendek
+1,28,83.8,Pendek
+1,28,97,Normal
+1,28,97.1,Tinggi
+1,29,81,Sangat Pendek
+1,29,84.5,Pendek
+1,29,97.9,Normal
+1,29,98,Tinggi
+1,30,81.6,Sangat Pendek
+1,30,85.1,Pendek
+1,30,98.7,Normal
+1,30,98.8,Tinggi
+1,31,82.2,Sangat Pendek
+1,31,85.7,Pendek
+1,31,99.6,Normal
+1,31,99.7,Tinggi
+1,32,82.7,Sangat Pendek
+1,32,86.4,Pendek
+1,32,100.4,Normal
+1,32,100.5,Tinggi
+1,33,83.3,Sangat Pendek
+1,33,86.9,Pendek
+1,33,101.2,Normal
+1,33,101.3,Tinggi
+1,34,83.8,Sangat Pendek
+1,34,87.5,Pendek
+1,34,102,Normal
+1,34,102.1,Tinggi
+1,35,84.3,Sangat Pendek
+1,35,88.1,Pendek
+1,35,102.7,Normal
+1,35,102.8,Tinggi
+1,36,84.9,Sangat Pendek
+1,36,88.7,Pendek
+1,36,103.5,Normal
+1,36,103.6,Tinggi
+1,37,85.4,Sangat Pendek
+1,37,89.2,Pendek
+1,37,104.2,Normal
+1,37,104.3,Tinggi
+1,38,85.9,Sangat Pendek
+1,38,89.8,Pendek
+1,38,105,Normal
+1,38,105.1,Tinggi
+1,39,86.4,Sangat Pendek
+1,39,90.3,Pendek
+1,39,105.7,Normal
+1,39,105.8,Tinggi
+1,40,86.9,Sangat Pendek
+1,40,90.9,Pendek
+1,40,106.4,Normal
+1,40,106.5,Tinggi
+1,41,87.4,Sangat Pendek
+1,41,91.4,Pendek
+1,41,107.1,Normal
+1,41,107.2,Tinggi
+1,42,87.9,Sangat Pendek
+1,42,91.9,Pendek
+1,42,107.8,Normal
+1,42,107.9,Tinggi
+1,43,88.3,Sangat Pendek
+1,43,92.4,Pendek
+1,43,108.5,Normal
+1,43,108.6,Tinggi
+1,44,88.8,Sangat Pendek
+1,44,93,Pendek
+1,44,109.1,Normal
+1,44,109.2,Tinggi
+1,45,89.3,Sangat Pendek
+1,45,93.5,Pendek
+1,45,109.8,Normal
+1,45,109.9,Tinggi
+1,46,89.8,Sangat Pendek
+1,46,94,Pendek
+1,46,110.4,Normal
+1,46,110.5,Tinggi
+1,47,90.2,Sangat Pendek
+1,47,94.4,Pendek
+1,47,111.1,Normal
+1,47,111.2,Tinggi
+1,48,90.6,Sangat Pendek
+1,48,94.9,Pendek
+1,48,111.7,Normal
+1,48,111.8,Tinggi
+1,49,91.1,Sangat Pendek
+1,49,95.4,Pendek
+1,49,112.4,Normal
+1,49,112.5,Tinggi
+1,50,91.5,Sangat Pendek
+1,50,95.9,Pendek
+1,50,113,Normal
+1,50,113.1,Tinggi
+1,51,92,Sangat Pendek
+1,51,96.4,Pendek
+1,51,113.6,Normal
+1,51,113.7,Tinggi
+1,52,92.4,Sangat Pendek
+1,52,96.9,Pendek
+1,52,114.2,Normal
+1,52,114.3,Tinggi
+1,53,92.9,Sangat Pendek
+1,53,97.4,Pendek
+1,53,114.9,Normal
+1,53,115,Tinggi
+1,54,93.3,Sangat Pendek
+1,54,97.8,Pendek
+1,54,115.5,Normal
+1,54,115.6,Tinggi
+1,55,93.8,Sangat Pendek
+1,55,98.3,Pendek
+1,55,116.1,Normal
+1,55,116.2,Tinggi
+1,56,94.2,Sangat Pendek
+1,56,98.8,Pendek
+1,56,116.7,Normal
+1,56,116.8,Tinggi
+1,57,94.6,Sangat Pendek
+1,57,99.3,Pendek
+1,57,117.4,Normal
+1,57,117.5,Tinggi
+1,58,95.1,Sangat Pendek
+1,58,99.7,Pendek
+1,58,118,Normal
+1,58,118.1,Tinggi
+1,59,95.5,Sangat Pendek
+1,59,100.2,Pendek
+1,59,118.6,Normal
+1,59,118.7,Tinggi
